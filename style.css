@@ -13,6 +13,7 @@ body
   border-color: #666666;
   background-color: #666666;
   padding-bottom: 10px;
+  margin-right: 5px;
 }
 #Środek
 {
@@ -30,4 +31,9 @@ body
     background-color: #666666;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin-left: 10px;
+}
+.Linki_Lewo:hover 
+{
+    color: #fff;
 }
