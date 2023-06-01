@@ -1,0 +1,13 @@
+main
+{
+  margin-top: 100px;
+  text-align: center;
+}
+h3
+{
+   width: 200pt;
+   height: 4cm;
+   border: #C0C0C0 dotted;
+   background-color: #0005ff;
+   margin-left: 30px;
+}
